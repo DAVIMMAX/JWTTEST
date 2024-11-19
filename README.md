@@ -4,7 +4,7 @@ Testar o código com o Request:
 
 import requests
 
-# URL da sua API onde a view de login está exposta
+# URL:
 url = 'http://127.0.0.1:8000/login/'  
 
 data = {
